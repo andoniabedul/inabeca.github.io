@@ -5,6 +5,8 @@ body {
   letter-spacing: 0.5px;
   font-weight: 500;
 }
+
+
 a {
   color: #00B7FF;
   text-decoration: none;
@@ -38,7 +40,8 @@ a {
   margin-right: 2%;
 }
 .options:hover{
-  background-color: #224680;
+  background-color: #CD9B1D
+;
   transition: 0.3s ease;
 }
 
@@ -54,13 +57,15 @@ a {
 }
 
 #initApp{
-  background-color: #224680;
+  background-color: #CD9B1D
+;
   color: #FFF;
   padding: 5px;
   border-radius: 25px;
 }
 .condominio {
-  color: #224680;
+  color: #CD9B1D
+;
   font-weight: bold;
 }
 /*** NAVBAR BLUE ***/
@@ -70,17 +75,20 @@ a {
   border-color: #FFF;
 }
 .navbar-default .navbar-brand {
-  color: #224680;
+  color: #CD9B1D
+;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   color: #ffffff;
 }
 .navbar-default .navbar-text {
-  color: #224680;
+  color: #CD9B1D
+;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #224680;
+  color: #CD9B1D
+;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -90,30 +98,37 @@ a {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #224680;
+  background-color: #CD9B1D
+;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   color: #ffffff;
-  background-color: #224680;
+  background-color: #CD9B1D
+;
 }
 .navbar-default .navbar-toggle {
-  border-color: #224680;
+  border-color: #CD9B1D
+;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #224680;
+  background-color: #CD9B1D
+;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #224680;
+  background-color: #CD9B1D
+;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #224680;
+  border-color: #CD9B1D
+;
 }
 .navbar-default .navbar-link {
-  color: #224680;
+  color: #CD9B1D
+;
 }
 .navbar-default .navbar-link:hover {
   color: #ffffff;
@@ -121,7 +136,8 @@ a {
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #224680;
+    color: #CD9B1D
+;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -131,7 +147,8 @@ a {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #ffffff;
-    background-color: #224680;
+    background-color: #CD9B1D
+;
   }
 }
 
@@ -162,7 +179,8 @@ a {
 .communityImage {
   max-width: 60%;
   max-height: 70%;
-  border: 5px solid #224680;
+  border: 5px solid #CD9B1D
+;
   box-shadow: 0 0 0 2pt #b3b3b3;
 }
 .communityImage:hover{
@@ -185,7 +203,8 @@ a {
 }
 
 #condominios {
-  color: #224680;
+  color: #CD9B1D
+;
   font-weight: bold;
   margin: 3%;
   padding: 1%;
@@ -194,7 +213,8 @@ a {
 
 .subtitulo {
   margin: 5%;
-  color: #224680;
+  color: #CD9B1D
+;
 }
 
 .wrapper-section {
@@ -203,7 +223,8 @@ a {
 
 footer {
   height: 30vh;
-  background-color: #224680;
+  background-color: #CD9B1D
+;
   color: #FFF;
 }
 .navbar-toggle {
@@ -232,7 +253,8 @@ footer {
   padding-left: 1%;
 }
 .navbar-header:hover{
-  background-color: #224680;
+  background-color: #CD9B1D
+;
   border-radius: 5px;
 
 }
